@@ -121,7 +121,7 @@ export default function Home() {
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
             transition={{ duration: 0.5 }}
-            className="bg-white rounded-xl p-8 text-3xl font-bold text-center"
+            className="bg-white rounded-xl px-8 py-6 text-3xl font-bold text-center"
           >
             ゲームクリア
           </motion.div>
