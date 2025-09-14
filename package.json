@@ -12,9 +12,11 @@
     "motion": "^12.23.12",
     "next": "15.1.8",
     "react": "^19.0.0",
+    "react-confetti": "^6.4.0",
     "react-dom": "^19.0.0",
     "react-kawaii": "^1.6.0",
-    "react-simple-typewriter": "^5.0.1"
+    "react-simple-typewriter": "^5.0.1",
+    "react-use": "^17.6.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
